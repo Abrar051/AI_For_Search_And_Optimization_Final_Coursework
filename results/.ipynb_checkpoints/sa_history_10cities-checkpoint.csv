@@ -1,0 +1,24 @@
+iteration,current_distance,best_distance,route
+0,582.7540073213294,582.7540073213294,City_8 -> City_4 -> City_3 -> City_9 -> City_6 -> City_7 -> City_10 -> City_5 -> City_1 -> City_2
+100,411.3286504981305,350.5317744739159,City_8 -> City_7 -> City_6 -> City_4 -> City_1 -> City_5 -> City_2 -> City_9 -> City_3 -> City_10
+200,464.4709928337013,350.5317744739159,City_9 -> City_7 -> City_1 -> City_6 -> City_4 -> City_5 -> City_3 -> City_8 -> City_2 -> City_10
+300,584.2137822287543,350.5317744739159,City_7 -> City_4 -> City_8 -> City_3 -> City_1 -> City_9 -> City_2 -> City_10 -> City_6 -> City_5
+400,580.8183099111059,350.5317744739159,City_8 -> City_5 -> City_3 -> City_6 -> City_10 -> City_2 -> City_7 -> City_1 -> City_4 -> City_9
+500,633.1157428295248,350.5317744739159,City_10 -> City_7 -> City_4 -> City_1 -> City_3 -> City_2 -> City_8 -> City_5 -> City_9 -> City_6
+600,497.0890412396119,350.5317744739159,City_4 -> City_9 -> City_1 -> City_5 -> City_6 -> City_2 -> City_7 -> City_8 -> City_10 -> City_3
+700,546.0652311058511,350.5317744739159,City_5 -> City_4 -> City_3 -> City_2 -> City_10 -> City_8 -> City_6 -> City_1 -> City_9 -> City_7
+800,488.93344070633987,350.5317744739159,City_6 -> City_1 -> City_5 -> City_10 -> City_4 -> City_7 -> City_2 -> City_3 -> City_8 -> City_9
+900,501.3645762754768,350.5317744739159,City_2 -> City_10 -> City_8 -> City_6 -> City_1 -> City_3 -> City_9 -> City_4 -> City_5 -> City_7
+1000,529.5836283377561,304.23680207344586,City_6 -> City_5 -> City_8 -> City_3 -> City_7 -> City_4 -> City_1 -> City_9 -> City_10 -> City_2
+1100,521.6489091038078,304.23680207344586,City_5 -> City_2 -> City_10 -> City_8 -> City_1 -> City_7 -> City_6 -> City_4 -> City_3 -> City_9
+1200,404.9998192014024,304.23680207344586,City_2 -> City_1 -> City_6 -> City_4 -> City_8 -> City_3 -> City_10 -> City_5 -> City_7 -> City_9
+1300,417.87481054870875,304.23680207344586,City_4 -> City_1 -> City_7 -> City_9 -> City_10 -> City_8 -> City_3 -> City_5 -> City_2 -> City_6
+1400,330.09188984522706,290.3067737918128,City_5 -> City_1 -> City_6 -> City_4 -> City_9 -> City_3 -> City_8 -> City_10 -> City_2 -> City_7
+1500,290.3067737918128,290.30677379181276,City_9 -> City_4 -> City_6 -> City_1 -> City_5 -> City_2 -> City_7 -> City_10 -> City_8 -> City_3
+1600,290.3067737918128,290.30677379181276,City_6 -> City_1 -> City_5 -> City_2 -> City_7 -> City_10 -> City_8 -> City_3 -> City_9 -> City_4
+1700,290.3067737918128,290.30677379181276,City_4 -> City_6 -> City_1 -> City_5 -> City_2 -> City_7 -> City_10 -> City_8 -> City_3 -> City_9
+1800,290.31836705569447,290.30677379181276,City_5 -> City_2 -> City_7 -> City_10 -> City_3 -> City_8 -> City_9 -> City_4 -> City_6 -> City_1
+1900,290.3067737918128,290.30677379181276,City_6 -> City_4 -> City_9 -> City_3 -> City_8 -> City_10 -> City_7 -> City_2 -> City_5 -> City_1
+2000,290.31836705569447,290.30677379181276,City_5 -> City_2 -> City_7 -> City_10 -> City_3 -> City_8 -> City_9 -> City_4 -> City_6 -> City_1
+2100,290.3067737918129,290.30677379181276,City_9 -> City_3 -> City_8 -> City_10 -> City_7 -> City_2 -> City_5 -> City_1 -> City_6 -> City_4
+2200,290.3067737918128,290.30677379181276,City_4 -> City_9 -> City_3 -> City_8 -> City_10 -> City_7 -> City_2 -> City_5 -> City_1 -> City_6
