@@ -1,0 +1,4 @@
+num_cities,tabu_size,max_iterations,neighborhood_size,stall_limit,best_distance
+5,5,300,100,50,227.34551868492375
+10,5,500,100,80,290.30677379181276
+15,5,300,100,50,320.5256656805111
