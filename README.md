@@ -105,7 +105,7 @@ pip install xgboost
   <li>Launch Jupyter Lab:
     <pre><code>jupyter lab</code></pre>
   </li>
-  <li>Open <code>src/main.ipynb</code>.</li>
+  <li>Open <code>src/AI_for_search_and_optimization_final_Coursework.ipynb</code>.</li>
   <li>Ensure <code>data/cities.csv</code> is present.</li>
   <li>Run the notebook to generate outputs in the <code>results/</code> folder.</li>
 </ol>
