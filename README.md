@@ -72,7 +72,7 @@ pip install xgboost
 │   └── cities.csv
 │
 ├── src/
-│   └── AI_for_search_and_optimization_final_Coursework_25043636.ipynb
+│   └── AI_for_search_and_optimization_final_Coursework.ipynb
 │
 ├── results/
 │   └── (runtime-generated outputs)
