@@ -50,12 +50,8 @@ venv\Scripts\activate      # Windows
 pip install numpy
 pip install seaborn
 pip install scipy
-pip install scikit-learn
-pip install ipywidgets
-pip install torch
-pip install optuna
-pip install xgboost
 </code></pre>
+
 
 <p>Or install everything at once using a <code>requirements.txt</code> file:</p>
 
