@@ -50,12 +50,8 @@ venv\Scripts\activate      # Windows
 pip install numpy
 pip install seaborn
 pip install scipy
-pip install scikit-learn
-pip install ipywidgets
-pip install torch
-pip install optuna
-pip install xgboost
 </code></pre>
+
 
 <p>Or install everything at once using a <code>requirements.txt</code> file:</p>
 
@@ -72,7 +68,7 @@ pip install xgboost
 │   └── cities.csv
 │
 ├── src/
-│   └── AI_for_search_and_optimization_final_Coursework_25043636.ipynb
+│   └── AI_for_search_and_optimization_final_Coursework.ipynb
 │
 ├── results/
 │   └── (runtime-generated outputs)
@@ -105,7 +101,7 @@ pip install xgboost
   <li>Launch Jupyter Lab:
     <pre><code>jupyter lab</code></pre>
   </li>
-  <li>Open <code>src/main.ipynb</code>.</li>
+  <li>Open <code>src/AI_for_search_and_optimization_final_Coursework.ipynb</code>.</li>
   <li>Ensure <code>data/cities.csv</code> is present.</li>
   <li>Run the notebook to generate outputs in the <code>results/</code> folder.</li>
 </ol>
